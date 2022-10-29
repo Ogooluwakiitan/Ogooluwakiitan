@@ -1,4 +1,4 @@
-# Hi 👋, I;m Ogooluwa Oladimeji
+# Hi 👋, I'm Ogooluwa Oladimeji
 
 ## 🚀 About Me
 I'm a Frontend developer. 
